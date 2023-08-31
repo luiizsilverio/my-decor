@@ -17,7 +17,7 @@
 /* Event form */
 
 #event-description {
-  background: linear-gradient(rgba(0, 0, 0, .9), rgba(40, 2, 116, 0.5)), url("./img/hrz-5.jpg");
+  background: linear-gradient(rgba(0, 0, 0, .9), rgba(40, 2, 116, 0.5)), url("/img/hrz-5.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
