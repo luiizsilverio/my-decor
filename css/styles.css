@@ -160,7 +160,7 @@
 
 #location {
   height: 400px;
-  background: linear-gradient(rgba(0, 0, 0, .9), rgba(40, 2, 116, 0.6)), url("/img/hrz-1.jpg");
+  background: linear-gradient(rgba(0, 0, 0, .9), rgba(40, 2, 116, 0.6)), url("../img/hrz-1.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -251,7 +251,7 @@
 
 #cta {
   height: 300px;
-  background: linear-gradient(rgba(0, 0, 0, .9), rgba(40, 2, 116, 0.6)), url("/img/hrz-5.jpg");
+  background: linear-gradient(rgba(0, 0, 0, .9), rgba(40, 2, 116, 0.6)), url("../img/hrz-5.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
